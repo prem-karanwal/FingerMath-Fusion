@@ -13,3 +13,7 @@ The FingerMath-Fusion is an innovative project that leverages OpenCV and compute
 - **Educational Impact**:
     Enhances the educational experience by combining computer vision and mathematics.
     Particularly beneficial for young learners, providing a novel and effective way to reinforce basic arithmetic skills.
+
+  
+![Screenshot (3)](https://github.com/prem-karanwal/FingerMath-Fusion/assets/113821428/aeb40f13-1a2d-495e-a554-e80cddf292e5)
+![Screenshot (4)](https://github.com/prem-karanwal/FingerMath-Fusion/assets/113821428/fed89ed3-cbdc-4cc3-bbf8-ce07065da9c4)
